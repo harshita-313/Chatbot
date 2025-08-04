@@ -1,4 +1,4 @@
-# chatbot
+# Chatbot
 # 🧠 Local General Knowledge Chatbot (Mistral + Ollama + LangChain + Streamlit)
 
 This is a **local, privacy-friendly general knowledge chatbot** built using:
