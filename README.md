@@ -1,2 +1,2 @@
 # Chatbot
-A local general knowledge chatbot using Mistral via Ollama, built with LangChain and Streamlit. It runs fully on your machine, remembers previous messages in a session using buffer memory, and doesn't display chat history. Ideal for experimenting with local LLMs privately.
+A local general knowledge chatbot using Mistral (via Ollama) and LangChain. It runs fully offline on your machine, remembers chat context with buffer memory (without showing history), and is built with Python + Streamlit. Great for testing local LLMs in a simple, private, and interactive setup.
